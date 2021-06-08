@@ -30,7 +30,7 @@ h3{
 }
 .bottom-cloud{
     position: absolute;
-    left: 400px;
+    left: 300px;
 }
 .top-cloud{
     position: absolute;
@@ -74,7 +74,4 @@ hr{
 }
 .middle-container{
     padding: 30px;
-}
-.mountain{
-    width: 50%;
 }
