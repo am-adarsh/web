@@ -1,4 +1,5 @@
 .top-container{
+    width: auto;
     padding: 10px;
     background-color: #E4F9F5;
     margin-bottom: 5px;
@@ -67,7 +68,11 @@ hr{
     margin: 50px auto 50px auto;
 }
 .bottom-container{
+    width: 100%;
     padding: 15px;
     margin-top: 50px;
     background-color: #66BFBF;
+}
+.middle-container{
+    padding: 30px;
 }
